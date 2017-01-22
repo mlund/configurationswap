@@ -1,0 +1,32 @@
+REMARK   1 CREATED WITH MDTraj 1.7.2, 2017-01-19
+CRYST1  103.772  103.772  103.772  60.00  60.00  90.00 P 1           1 
+MODEL        0
+ATOM      1 NTR  NTR A   0      42.123  55.953  33.911  1.00  0.00          Ar  
+ATOM      2 ASP  ASP A   1      43.072  58.576  34.643  1.00  0.00          Ar  
+ATOM      3 SER  SER A   2      46.299  58.904  32.939  1.00  0.00          Ar  
+ATOM      4 HIS  HIS A   3      47.515  62.380  34.693  1.00  0.00          Ar  
+ATOM      5 ALA  ALA A   4      52.512  62.345  33.635  1.00  0.00          Ar  
+ATOM      6 LYS  LYS A   5      54.872  66.451  35.750  1.00  0.00          Ar  
+ATOM      7 ARG  ARG A   6      60.312  62.909  35.176  1.00  0.00          Ar  
+ATOM      8 HIS  HIS A   7      59.574  69.464  34.251  1.00  0.00          Ar  
+ATOM      9 HIS  HIS A   8      64.478  68.155  36.655  1.00  0.00          Ar  
+ATOM     10 GLY  GLY A   9      66.744  72.485  34.853  1.00  0.00          Ar  
+ATOM     11 TYR  TYR A  10      69.160  70.208  37.067  1.00  0.00          Ar  
+ATOM     12 LYS  LYS A  11      72.312  76.428  34.178  1.00  0.00          Ar  
+ATOM     13 ARG  ARG A  12      77.402  74.144  38.301  1.00  0.00          Ar  
+ATOM     14 LYS  LYS A  13      78.945  79.252  33.880  1.00  0.00          Ar  
+ATOM     15 PHE  PHE A  14      81.515  78.087  38.317  1.00  0.00          Ar  
+ATOM     16 HIS  HIS A  15      84.520  80.993  33.899  1.00  0.00          Ar  
+ATOM     17 GLU  GLU A  16      89.110  82.342  38.161  1.00  0.00          Ar  
+ATOM     18 LYS  LYS A  17      92.476  85.227  34.036  1.00  0.00          Ar  
+ATOM     19 HIS  HIS A  18      93.634  86.409  39.012  1.00  0.00          Ar  
+ATOM     20 HIS  HIS A  19      97.780  85.735  34.674  1.00  0.00          Ar  
+ATOM     21 SER  SER A  20     100.652  88.724  37.562  1.00  0.00          Ar  
+ATOM     22 HIS  HIS A  21     104.146  88.862  35.442  1.00  0.00          Ar  
+ATOM     23 ARG  ARG A  22     105.628  94.946  39.997  1.00  0.00          Ar  
+ATOM     24 GLY  GLY A  23     109.587  94.124  36.767  1.00  0.00          Ar  
+ATOM     25 TYR  TYR A  24     109.747  97.528  38.490  1.00  0.00          Ar  
+ATOM     26 CTR  CTR A  25     114.037  95.123  38.853  1.00  0.00          Ar  
+TER      27      CTR A  25
+ENDMDL
+END
