@@ -79,7 +79,7 @@ int main()
 
     auto pol = spc.findMolecules("protein");
     auto sur = spc.findMolecules("surface");
-    Table2D<double, Average<double> > ree2table[pol.size()];
+    vector<Table2D<double, Average<double> >> ree2table(pol.size());
     int scnt = 0;
 
     auto shape = analysis.get<Analysis::PolymerShape<Tspace>>();
